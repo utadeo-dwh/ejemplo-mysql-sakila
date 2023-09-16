@@ -2,17 +2,8 @@
 
 > Base de datos de ejemplo que representa una tienda para el alquiler de DVD.
 
-La documentación de este ejempo está disponible en [el sitio de MySQL](https://dev.mysql.com/doc/sakila/en/sakila-introduction.html) y en el [repositorio de Github](https://github.com/datacharmer/test_db).
+La documentación de este ejempo está disponible en [el sitio de MySQL](https://dev.mysql.com/doc/sakila/en/sakila-introduction.html) y en el [repositorio de Github](https://github.com/datacharmer/test_db/tree/master/sakila).
 
-## Clonando el proyecto
-
-Este repositorio Git contiene un submodulo con un enlace al repositorio del ejemplo. Al clonar el repositorio es necesario inicializar el submodulo. Por ejemplo, puede ejecutar las siguientes instrucciones
-
-```
-git clone ...
-git submodule init
-git submodule update
-```
 
 ## Crear una imagen de contenedor con el ejemplo
 
